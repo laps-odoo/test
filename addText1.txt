@@ -1,4 +1,8 @@
 hello!
+<<<<<<< HEAD
 2020 July 30
 30th July 2020
 2 Aug 2020
+=======
+2020 July
+>>>>>>> parent of 8006e3d... Update addText1.txt
