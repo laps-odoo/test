@@ -1,2 +1,2 @@
 Date,stock_key,multivariate_past_history,rnn_start,BATCH_SIZE,EPOCHS,EVALUATION_INTERVAL,PATIENCE,BUFFER_SIZE,VAL_STEPS,DROP_OUT,train_split,multivariate_future_target,STEP
-2022-09-11,0001.HK,1,365,64,1200,50,200,100,50,0.2,0.8,0,1
+2022-09-11,0001.HK,1,365,64,1200,50,250,100,50,0.1,0.8,0,1
